@@ -1,0 +1,19 @@
+# Ignore the build directory
+build/
+
+# Ignore compiled files
+*.o
+*.out
+*.a
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore executable files
+maze
+

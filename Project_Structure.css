@@ -1,0 +1,22 @@
+maze_project/
+├── include/
+│   ├── maze.h
+│   ├── map_parser.h
+│   ├── player.h
+│   ├── raycasting.h
+│   └── textures.h
+├── src/
+│   ├── main.c
+│   ├── map_parser.c
+│   ├── player.c
+│   ├── raycasting.c
+│   └── textures.c
+├── maps/
+│   └── map1.txt
+├── README.md
+├── Makefile
+└── textures/
+    ├── texture1.bmp
+    ├── texture2.bmp
+    └── texture3.bmp
+
